@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "745f",
+      "name": "cacca",
+      "completed": false
+    },
+    {
+      "id": "99f5",
+      "name": "pupù",
+      "completed": false
+    },
+    {
+      "id": "f236",
+      "name": "merda secca",
+      "completed": false
+    },
+    {
+      "id": "93aa",
+      "name": "stronzo",
+      "completed": false
+    },
+    {
+      "id": "fedd",
+      "name": "maledetto",
+      "completed": false
+    },
+    {
+      "id": "674a",
+      "name": "bastardo",
+      "completed": false
+    },
+    {
+      "id": "8b84",
+      "name": "asdad",
+      "completed": false
+    }
+  ]
+}
